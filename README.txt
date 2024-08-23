@@ -20,7 +20,7 @@ For learning and communication only!!!
 
 yalmip 建模, gurobi 求解
 
-依赖库：yalmip, ipopt, matpower
+依赖库：yalmip, gurobi, matpower
 
 作者：罗清局
 邮箱：luoqingju@qq.com
