@@ -6,8 +6,6 @@ Dependency libraries: yalmip, gurobi, matpower
 
 Author: Qingju Luo
 Email: luoqingju@qq.com
-School of Electric Power Engineering, South China University of Technology
-Integrated Smart Energy System Optimal Operation and Control, ISESOOC
 
 The author's ability is limited, there will inevitably be errors and inadequacies, please criticize and correct!
 
